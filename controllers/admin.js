@@ -27,7 +27,7 @@ exports.getUserById = asyncHandler(async (req, res) => {
 exports.deleteUser = asyncHandler(async (req, res) => {
   const { userId } = req.params;
 
-  if (userId == "60856f56ed20cf0c4a97005c")
+  if (userId == "608d303fd366d90015839339")
     throw customError(403, "No one can delete this user");
 
   const _user = await User.findOneAndDelete({
@@ -43,7 +43,7 @@ exports.updateUserRole = asyncHandler(async (req, res) => {
   const { userId } = req.params;
   const { role } = req.body;
 
-  if (userId == "60856f56ed20cf0c4a97005c")
+  if (userId == "608d303fd366d90015839339")
     throw customError(403, "No one can modify this user");
 
   const _user = await User.findOne({ _id: userId });

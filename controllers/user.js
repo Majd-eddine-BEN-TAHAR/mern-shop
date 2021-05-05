@@ -97,7 +97,7 @@ exports.getProfile = asyncHandler(async (req, res) => {
 });
 
 exports.updateProfile = asyncHandler(async (req, res) => {
-  if (req.user._id == "60856f56ed20cf0c4a97005c")
+  if (req.user._id == "608d303fd366d90015839339")
     throw customError(403, "No one can modify this user");
 
   const _user = await User.findOne({ _id: req.user._id });
