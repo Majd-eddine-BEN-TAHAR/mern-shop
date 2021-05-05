@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52f4aada.chunk.css",
+    "main.js": "/static/js/main.a7541e41.chunk.js",
+    "main.js.map": "/static/js/main.a7541e41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
+    "static/css/2.0df0d7f8.chunk.css": "/static/css/2.0df0d7f8.chunk.css",
+    "static/js/2.9d63ec20.chunk.js": "/static/js/2.9d63ec20.chunk.js",
+    "static/js/2.9d63ec20.chunk.js.map": "/static/js/2.9d63ec20.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0df0d7f8.chunk.css.map": "/static/css/2.0df0d7f8.chunk.css.map",
+    "static/css/main.52f4aada.chunk.css.map": "/static/css/main.52f4aada.chunk.css.map",
+    "static/js/2.9d63ec20.chunk.js.LICENSE.txt": "/static/js/2.9d63ec20.chunk.js.LICENSE.txt",
+    "static/media/Logo.7e62c9b5.svg": "/static/media/Logo.7e62c9b5.svg",
+    "static/media/address.eadfec14.svg": "/static/media/address.eadfec14.svg",
+    "static/media/customer-service.6752441b.svg": "/static/media/customer-service.6752441b.svg",
+    "static/media/delete.48122621.svg": "/static/media/delete.48122621.svg",
+    "static/media/facebook.cebbbbea.svg": "/static/media/facebook.cebbbbea.svg",
+    "static/media/false.50dc165d.svg": "/static/media/false.50dc165d.svg",
+    "static/media/grey-stars.9100e5ec.svg": "/static/media/grey-stars.9100e5ec.svg",
+    "static/media/instagram.02967a62.svg": "/static/media/instagram.02967a62.svg",
+    "static/media/loupe.f72ffb4b.svg": "/static/media/loupe.f72ffb4b.svg",
+    "static/media/newsletter.cac8cddd.svg": "/static/media/newsletter.cac8cddd.svg",
+    "static/media/shopping.7e4ec425.svg": "/static/media/shopping.7e4ec425.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/true.aac6c116.svg": "/static/media/true.aac6c116.svg",
+    "static/media/twitter.16ec4858.svg": "/static/media/twitter.16ec4858.svg",
+    "static/media/user.2cb12813.svg": "/static/media/user.2cb12813.svg",
+    "static/media/write.6bc80049.svg": "/static/media/write.6bc80049.svg",
+    "static/media/yellow-stars.2820c473.svg": "/static/media/yellow-stars.2820c473.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406dd86f.js",
+    "static/css/2.0df0d7f8.chunk.css",
+    "static/js/2.9d63ec20.chunk.js",
+    "static/css/main.52f4aada.chunk.css",
+    "static/js/main.a7541e41.chunk.js"
+  ]
+}
