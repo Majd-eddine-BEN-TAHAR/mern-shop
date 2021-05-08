@@ -70,8 +70,8 @@ const AdminEditProduct = () => {
             className="w-full max-w-sm mx-auto"
           />
 
-          <p className="w-full bg-gray-100 py-2 px-4 capitalize mt-2 border-2 focus:border-gray-400 outline-none">
-            {product.image_url}
+          <p className="w-full bg-gray-100 py-2 px-4 capitalize mt-2 border-2 focus:border-gray-400 outline-none break-all">
+            {image ? image.name : product.image_url}
           </p>
           <label className="font-bold text-center border-2 py-1 px-3 capitalize cursor-pointer bg-gray-200 hover:bg-blue-600 hover:text-white">
             <input
