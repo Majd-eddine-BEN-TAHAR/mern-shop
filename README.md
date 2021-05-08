@@ -1,9 +1,8 @@
 # e-commerce using MERN stack
 
-For live preview visit : [mern-shop](https://majd-shop.netlify.app/).
+For live preview visit : [mern-shop](https://majd-mern-e-commerce.herokuapp.com/).
 
 ## Env Variables
-
 Create a .env file in the root directory and add the following variables with your own values
 
 ```

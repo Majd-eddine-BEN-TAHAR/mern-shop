@@ -1,0 +1,15 @@
+---
+application:
+  name: "mern-shop"
+  project: "test"
+  organization: "QoveryCommunity"
+databases:
+- type: "MONGODB"
+  name: "e-commerce"
+  version: "4.4"
+routers:
+- name: "main-mern-shop"
+  routes:
+  - application_name: "mern-shop"
+    paths:
+    - "/*"
